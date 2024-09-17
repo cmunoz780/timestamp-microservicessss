@@ -1,0 +1,14 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Un microservicio que devuelve marcas de tiempo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
